@@ -30,8 +30,8 @@ a:hover {
 section  {
 	display: grid; 
 	grid-template-columns: 1fr 4fr;
-	grid-gap: 20px;
-	padding: 24px 0;
+	grid-gap: 16px;
+	padding: 22px 0;
 	border-bottom: 1px solid lightgrey; 
 }
 
@@ -44,12 +44,12 @@ section:last-child {
 	font-size: 18px;
 }
 
-img.BibiOfuya {
+img.https://res.cloudinary.com/bibiofuya/image/upload/v1566550633/A4C95905-4AD6-40B7-A4E8-850787306AFA_vv3kub.jpg {
 	width:150px;
 }
 
 .my-name {
-	font-size: 42px;
+	font-size: 48px;
 	line-height: 1;
 }
 
@@ -77,21 +77,15 @@ img.BibiOfuya {
 	border-bottom: 1px solid lightgrey;
 }
 
-.job {
-	padding-bottom: 24px;
-	margin-bottom: 24px;
-	border-bottom: 1px solid lightgrey;
-}
-
 .job:last-child  {
 	border-bottom: none;
 }
 
-.Job-title-container {
+.job-title-container {
 	display: flex;
 	justify-content: space-between;
 	margin-bottom: 20px;
-	font-size: 18px;
+	font-size: 14px;
 }
 
 .job-company {
@@ -128,3 +122,4 @@ img.BibiOfuya {
 .references {
         font-size: 14px;
 }
+
